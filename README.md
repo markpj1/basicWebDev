@@ -1,4 +1,6 @@
-# basicWebDev
-Meet-up basic web dev lesson
+## BasicWebDev
+#Meet-up basic web dev lesson week one
 
-[assemble](http://www.sublimetext.com/2)
+links to text editor
+[sublimeText2](http://www.sublimetext.com/2)
+[adobeBrackets](http://brackets.io/)
