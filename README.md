@@ -1,4 +1,4 @@
-### BasicWebDev
+## BasicWebDev
 #Meet-up basic web dev lesson week one.
 Introduction were we are at in your learning, what you would like to accomplish, favorite dance move.
 
@@ -24,4 +24,11 @@ Open Git-Hub account.
 2.  [link to video](https://www.youtube.com/watch?v=HndN6P9ke6U)
 3.  [MarkDown lesson](http://markdowntutorial.com/lesson/1/)
 4.  [MarkDown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+
+#Dev tools video
+
+1.  [Chrome dev tools video 2015](https://developers.google.com/web/tools/chrome-devtools/)
+
+
+
 
