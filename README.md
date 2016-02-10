@@ -1,4 +1,4 @@
-## BasicWebDev
+### BasicWebDev
 #Meet-up basic web dev lesson week one.
 Introduction were we are at in your learning, what you would like to accomplish, favorite dance move.
 
