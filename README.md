@@ -1,10 +1,12 @@
 ## BasicWebDev
 #Meet-up basic web dev lesson week one.
-introduction were we are at in your learning, what you would like to accomplish, favorite dance move.
+Introduction were we are at in your learning, what you would like to accomplish, favorite dance move.
 
-Text editor load and learn
+Text editor load and learn.
 
 Chrome Dev-Tools Features and Buttons.
+
+Open Git-Hub account.
 
 
 #links to text editor
