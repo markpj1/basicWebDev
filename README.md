@@ -7,7 +7,7 @@ Text editor load and learn
 Chrome Dev-Tools Features and Buttons.
 
 
-links to text editor
+#links to text editor
 
 
 1.  [sublimeText2](http://www.sublimetext.com/2)
