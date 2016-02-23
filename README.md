@@ -32,8 +32,8 @@ Open Git-Hub account.
 #Meet-up basic web dev lesson two.
 
 
-1.  [link to npm noralizer](http://necolas.github.io/normalize.css/)
+1.  [link to npm normalizer](http://necolas.github.io/normalize.css/)
 2.  [link to css normalizer](http://meyerweb.com/eric/tools/css/reset/)
-3.  [link to css tricks](https://css-tricks.com/)
+3.  [link to css tricks box model](https://css-tricks.com/the-css-box-model/)
 4.  [link to sample pages](http://assignments.udacity-extras.appspot.com/courses/html-css/index.html)
 
