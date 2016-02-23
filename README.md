@@ -30,8 +30,10 @@ Open Git-Hub account.
 1.  [Chrome dev tools video 2015](https://developers.google.com/web/tools/chrome-devtools/)
 
 #Meet-up basic web dev lesson one.
-[link to npm noralizer](http://necolas.github.io/normalize.css/)
-[link to css normalizer](http://meyerweb.com/eric/tools/css/reset/)
-[link to css tricks](https://css-tricks.com/)
-[link to sample pages](http://assignments.udacity-extras.appspot.com/courses/html-css/index.html)
+
+
+1.  [link to npm noralizer](http://necolas.github.io/normalize.css/)
+2.  [link to css normalizer](http://meyerweb.com/eric/tools/css/reset/)
+3.  [link to css tricks](https://css-tricks.com/)
+4.  [link to sample pages](http://assignments.udacity-extras.appspot.com/courses/html-css/index.html)
 
