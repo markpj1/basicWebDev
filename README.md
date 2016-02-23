@@ -1,5 +1,5 @@
 ## BasicWebDev
-#Meet-up basic web dev lesson week one.
+#Meet-up basic web dev lesson one.
 Introduction were we are at in your learning, what you would like to accomplish, favorite dance move.
 
 Text editor load and learn.
@@ -29,6 +29,9 @@ Open Git-Hub account.
 
 1.  [Chrome dev tools video 2015](https://developers.google.com/web/tools/chrome-devtools/)
 
-
-
+#Meet-up basic web dev lesson one.
+[link to npm noralizer](http://necolas.github.io/normalize.css/)
+[link to css normalizer](http://meyerweb.com/eric/tools/css/reset/)
+[link to css tricks](https://css-tricks.com/)
+[link to sample pages](http://assignments.udacity-extras.appspot.com/courses/html-css/index.html)
 
