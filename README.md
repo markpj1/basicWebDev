@@ -29,7 +29,7 @@ Open Git-Hub account.
 
 1.  [Chrome dev tools video 2015](https://developers.google.com/web/tools/chrome-devtools/)
 
-#Meet-up basic web dev lesson one.
+#Meet-up basic web dev lesson two.
 
 
 1.  [link to npm noralizer](http://necolas.github.io/normalize.css/)
