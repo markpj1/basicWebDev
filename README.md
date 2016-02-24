@@ -42,4 +42,5 @@ Open Git-Hub account.
 8.  [re-createThis](http://assignments.udacity-extras.appspot.com/courses/html-css/img/mock1-fav-app.pdf)
 9.  [bootstrap CDN](http://assignments.udacity-extras.appspot.com/courses/html-css/img/mock1-fav-app.pdf)
 10. [bootStrap](http://getbootstrap.com/)
+11. [Adobe colorPick](https://color.adobe.com/create/color-wheel/)
 
