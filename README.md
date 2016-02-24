@@ -36,4 +36,6 @@ Open Git-Hub account.
 2.  [link to css normalizer](http://meyerweb.com/eric/tools/css/reset/)
 3.  [link to css tricks box model](https://css-tricks.com/the-css-box-model/)
 4.  [link to sample pages](http://assignments.udacity-extras.appspot.com/courses/html-css/index.html)
+5.  [link to placeHold](https://placehold.it/)
+6.  [link to IpsumBacon](http://baconipsum.com/)
 
