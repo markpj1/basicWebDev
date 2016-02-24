@@ -38,4 +38,8 @@ Open Git-Hub account.
 4.  [link to sample pages](http://assignments.udacity-extras.appspot.com/courses/html-css/index.html)
 5.  [link to placeHold](https://placehold.it/)
 6.  [link to IpsumBacon](http://baconipsum.com/)
+7.  [Box-modelExample](http://assignments.udacity-extras.appspot.com/courses/html-css/samples/box-model.html)
+8.  [re-createThis](http://assignments.udacity-extras.appspot.com/courses/html-css/img/mock1-fav-app.pdf)
+9.  [bootstrap CDN](http://assignments.udacity-extras.appspot.com/courses/html-css/img/mock1-fav-app.pdf)
+10. [bootStrap](http://getbootstrap.com/)
 
