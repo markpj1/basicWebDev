@@ -43,5 +43,6 @@ Open Git-Hub account.
 9.  [bootstrap CDN](http://assignments.udacity-extras.appspot.com/courses/html-css/img/mock1-fav-app.pdf)
 10. [bootStrap](http://getbootstrap.com/)
 11. [Adobe colorPick](https://color.adobe.com/create/color-wheel/)
-12. [GoogleFonts]()https://www.google.com/fonts
+12. [GoogleFonts](https://www.google.com/fonts)
+13. [SpecFishityChart](http://www.standardista.com/css3/css-specificity/)
 
